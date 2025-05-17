@@ -1,0 +1,18 @@
+# Ultimate Brainfuck Decryptor Requirements
+# Core requirement: Python standard library is sufficient for the script.
+# Below are optional dependencies for potential enhancements or advanced use cases.
+
+# Minimum Python version
+python>=3.6
+
+# Optional: Enhanced logging and formatting for debugging
+rich>=13.9.2
+
+# Optional: Advanced JSON processing and validation
+jsonschema>=4.23.0
+
+# Optional: Data visualization for memory analysis or execution tracing
+matplotlib>=3.9.2
+
+# Optional: Command-line interface enhancements
+click>=8.1.7
