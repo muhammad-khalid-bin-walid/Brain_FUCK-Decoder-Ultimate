@@ -259,9 +259,6 @@ Memory Strings:
     ```
 
 ## Support
-If you encounter issues or need specific features (e.g., new ciphers, GUI, different language):
-- Provide the Brainfuck code and expected output.
-- Describe the cipher or decoding goal.
-- Share any errors or script output.
+Contact me on pentester.walid@gmail.com if any issues occur
 
 This tool is designed to be the ultimate Brainfuck decryptor, but we’re happy to refine it further!
